@@ -1,2 +1,1 @@
-Readme 
-Markdown
+__This file is mandatory in projects__
